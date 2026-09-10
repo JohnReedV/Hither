@@ -1,0 +1,10 @@
+/target
+*.log
+/tools/.venv/
+/tools/vendor/
+/tools/build/
+__pycache__/
+*.blend1
+
+# Temporary research and document-rendering files.
+/tmp/

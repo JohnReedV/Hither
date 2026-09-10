@@ -1,0 +1,6 @@
+{
+  "max_fps": 144,
+  "show_fps": true,
+  "display_mode": "windowed",
+  "mouse_sensitivity": 1.0
+}

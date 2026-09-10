@@ -1,0 +1,15 @@
+{
+  "normalized_height": 1.024,
+  "source_height": 1.3021914092241786,
+  "normalization": 0.7863667297652348,
+  "walk_cycle_seconds": 0.7166666666666667,
+  "stance_fraction": 0.6,
+  "stance_travel": 0.25163735352487515,
+  "vertices": 214050,
+  "clips": [
+    "Idle",
+    "Scamper",
+    "Alert",
+    "Swipe"
+  ]
+}
